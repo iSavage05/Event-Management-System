@@ -1,14 +1,8 @@
 # Univent - Real-Time College Event Management System (MERN Stack)
 
 <div align="center">
-  <img src="frontend/public/logo3.jpg" alt="Univent - College Event Management System Logo" width="800" />
+  <img src="frontend/public/logo3.jpg" alt="Univent - Event Management System Logo" width="800" />
 </div>
-
-<p align="center">
-  <a href="https://github.com/AbhishekBalija/Univent/blob/main/LICENSE"><img src="https://img.shields.io/github/license/AbhishekBalija/Univent?style=for-the-badge" alt="License"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success.svg?style=for-the-badge" alt="Status"></a>
-  <a href="#"><img src="https://img.shields.io/github/last-commit/AbhishekBalija/Univent?style=for-the-badge" alt="Last Commit"></a>
-</p>
 
 ## 🚀 Overview
 Univent is a comprehensive, real-time event management platform designed specifically for the dynamic environment of colleges and universities. Built on the **MERN stack (MongoDB, Express.js, React.js, Node.js)** with a **microservice architecture**, it provides a centralized system for organizing and participating in college fests, workshops, and technical events. The platform features live announcements and interactive leaderboards to boost engagement and streamline communication between organizers and participants.
@@ -61,7 +55,7 @@ Univent is designed using a **microservice architecture** to ensure scalability,
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/AbhishekBalija/Univent.git](https://github.com/AbhishekBalija/Univent.git)
+    git clone [https://github.com/iSavage05/Event-Management-System](https://github.com/iSavage05/Event-Management-System)
     cd univent
     ```
 
@@ -152,5 +146,3 @@ univent/
 └── docker-compose.yml    # Docker configuration for all services
 ```
 
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
